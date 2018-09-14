@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/htshllwn/planning-sheet/issues"
   },
-  "homepage": "https://github.com/htshllwn/planning-sheet#readme"
+  "homepage": "https://github.com/htshllwn/planning-sheet#readme",
+  "dependencies": {
+    "log4js": "^3.0.5",
+    "xlsx-to-json": "^0.3.0"
+  }
 }
