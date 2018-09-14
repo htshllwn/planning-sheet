@@ -1,0 +1,19 @@
+{
+  "name": "planning-sheet",
+  "version": "1.0.0",
+  "description": "Reading a planning sheet as input and sending reminders to the associated people",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htshllwn/planning-sheet.git"
+  },
+  "author": "Hitesh Lalwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htshllwn/planning-sheet/issues"
+  },
+  "homepage": "https://github.com/htshllwn/planning-sheet#readme"
+}
