@@ -18,6 +18,7 @@
   "homepage": "https://github.com/htshllwn/planning-sheet#readme",
   "dependencies": {
     "log4js": "^3.0.5",
+    "moment": "^2.22.2",
     "xlsx-to-json": "^0.3.0"
   }
 }

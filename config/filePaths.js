@@ -13,7 +13,8 @@ if(!fs.existsSync(dataDir)){
 
 var exportObj = {
     xlsxInputPath: path.join(CWD, 'config/sample.xlsx'),
-    jsonOutputPath: path.join(dataDir, 'xlsxJson.json')
+    jsonOutputPath: path.join(dataDir, 'excelJson.json'),
+    mailAddsPath: path.join(dataDir, 'mails.json'),
 }
 
 // console.log(exportObj)
