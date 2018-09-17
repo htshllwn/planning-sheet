@@ -19,6 +19,7 @@
   "dependencies": {
     "log4js": "^3.0.5",
     "moment": "^2.22.2",
+    "nodemailer": "^4.6.8",
     "xlsx-to-json": "^0.3.0"
   }
 }
